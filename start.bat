@@ -26,3 +26,4 @@ if !seconds! gtr 0 (
 
 echo Launching the program...
 start "" "LanEmu.exe"
+del install.bat
